@@ -15,11 +15,6 @@ During my education, I have gained foundational knowledge in various areas, both
   - **Databases**: SQL
   - **Other**: UML, Linux
 
-# 🌍 Languages:
-- **Swedish**: Native
-- **Spanish**: Native
-- **English**: Fluent
-
 # 📚 Thesis:
 
 I have completed my thesis titled:  
