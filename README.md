@@ -3,7 +3,7 @@ I’m a final-year student studying **Computer and Systems Sciences** at Stockho
 
 When I’m not studying or working, I enjoy playing bass 🎸, working out 🏋️, hanging out with friends, and watching football ⚽ (I also collect football jerseys!).
 
-# 💻 Skills:
+### 💻 Skills:
 
 During my education, I have gained foundational knowledge in various areas, both theoretical and practical, including:
 
@@ -15,13 +15,13 @@ During my education, I have gained foundational knowledge in various areas, both
   - **Databases**: SQL
   - **Other**: UML, Linux
 
-# 📚 Thesis:
+### 📚 Thesis:
 
 I have completed my thesis titled:  
 **“Analyzing Cybercrime Services and Trust Dynamics on the Dark Web: A Case Study of DarkDock Marketplace”**
 
 [Check it out](https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=UNDERGRADUATE&sortOrder2=title_sort_asc&language=en&pid=diva2%3A1902693&aq=%5B%5B%7B%22freeText%22%3A%22joel+hägvall%22%7D%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=8239)
 
-# 🤝 Let’s connect:
+### 🤝 Let’s Connect:
 
 Feel free to reach out! My contact information (email and LinkedIn) is available on my profile.
