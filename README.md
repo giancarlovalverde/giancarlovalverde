@@ -20,7 +20,7 @@ During my education, I have gained foundational knowledge in various areas, both
 I have completed my thesis titled:  
 **“Analyzing Cybercrime Services and Trust Dynamics on the Dark Web: A Case Study of DarkDock Marketplace”**
 
-[Check it out](https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=UNDERGRADUATE&sortOrder2=title_sort_asc&language=en&pid=diva2%3A1902693&aq=%5B%5B%7B%22freeText%22%3A%22joel+hägvall%22%7D%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=8239)
+[Check it out](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1902693&dswid=9840)
 
 ### 🤝 Let’s Connect:
 
