@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Giancarlo!
-I’m a final-year student studying **Computer and Systems Sciences** at Stockholm University. My main interests are **cybersecurity** and **project management**. Alongside my studies, I work as a tutor helping primary school students with their education. 
+# 👋 Hi, I’m Carlo!
+I’m a final-year student studying **Computer and Systems Sciences** at Stockholm University. My main interests are **cybersecurity** and **project management**. 
 
 When I’m not studying or working, I enjoy playing bass 🎸, working out 🏋️, hanging out with friends, and watching football ⚽ (I also collect football jerseys!).
 
