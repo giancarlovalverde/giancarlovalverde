@@ -9,11 +9,10 @@ During my education, I have gained foundational knowledge in various areas, both
 
 - **Cybersecurity**: Courses covered topics like trojan horses, hash functions, NetBus, keyloggers, and important certifications such as **ISO/IEC 27001**.
   
-- **Programming & Web Development**: I’ve worked with a variety of technologies, including:
+- **Programming & Web Development**: 
   - **Languages**: Java, JavaScript, Dart, PHP, HTML, CSS
   - **Frameworks/Tools**: JavaFX, Figma
   - **Databases**: SQL
-  - **Other**: UML, Linux
 
 ### 📚 Thesis:
 
